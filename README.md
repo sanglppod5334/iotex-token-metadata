@@ -1,0 +1,1 @@
+# iotex-token-metadata
